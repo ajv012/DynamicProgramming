@@ -1,0 +1,1 @@
+In this repo, I share my implementation of Bellman's optimality principle/ dynammic programming. I use it to find the best path between two given American cities. Example outputs are shown in the .PNG files.
